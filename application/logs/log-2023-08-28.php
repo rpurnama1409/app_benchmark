@@ -342,3 +342,99 @@ INFO - 2023-08-28 11:15:04 --> User Agent Class Initialized
 INFO - 2023-08-28 11:15:04 --> Controller Class Initialized
 INFO - 2023-08-28 11:15:04 --> Final output sent to browser
 DEBUG - 2023-08-28 11:15:04 --> Total execution time: 0.0485
+INFO - 2023-08-28 11:23:38 --> Config Class Initialized
+INFO - 2023-08-28 11:23:38 --> Hooks Class Initialized
+DEBUG - 2023-08-28 11:23:38 --> UTF-8 Support Enabled
+INFO - 2023-08-28 11:23:38 --> Utf8 Class Initialized
+INFO - 2023-08-28 11:23:38 --> URI Class Initialized
+DEBUG - 2023-08-28 11:23:38 --> No URI present. Default controller set.
+INFO - 2023-08-28 11:23:38 --> Router Class Initialized
+INFO - 2023-08-28 11:23:38 --> Output Class Initialized
+INFO - 2023-08-28 11:23:38 --> Security Class Initialized
+DEBUG - 2023-08-28 11:23:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-28 11:23:38 --> Input Class Initialized
+INFO - 2023-08-28 11:23:38 --> Language Class Initialized
+INFO - 2023-08-28 11:23:38 --> Loader Class Initialized
+INFO - 2023-08-28 11:23:38 --> Helper loaded: url_helper
+INFO - 2023-08-28 11:23:38 --> Helper loaded: tanggal_helper
+ERROR - 2023-08-28 11:23:38 --> Session: Configured save path '/var/www/html/app_benchmark/application/ci_session' is not writable by the PHP process.
+ERROR - 2023-08-28 11:23:46 --> Severity: Warning --> 2 - 2023-08-28 11:23:38 -->  /var/www/html/app_benchmark/system/libraries/Session/Session.php 143
+ /var/www/html/app_benchmark/system/libraries/Session/Session.php 143
+INFO - 2023-08-28 11:23:46 --> Session: Class initialized using 'files' driver.
+INFO - 2023-08-28 11:23:46 --> Helper loaded: form_helper
+INFO - 2023-08-28 11:23:46 --> Form Validation Class Initialized
+INFO - 2023-08-28 11:23:46 --> User Agent Class Initialized
+INFO - 2023-08-28 11:23:46 --> Controller Class Initialized
+INFO - 2023-08-28 11:23:46 --> Final output sent to browser
+DEBUG - 2023-08-28 11:23:46 --> Total execution time: 8.2613
+INFO - 2023-08-28 11:24:42 --> Config Class Initialized
+INFO - 2023-08-28 11:24:42 --> Hooks Class Initialized
+DEBUG - 2023-08-28 11:24:42 --> UTF-8 Support Enabled
+INFO - 2023-08-28 11:24:42 --> Utf8 Class Initialized
+INFO - 2023-08-28 11:24:42 --> URI Class Initialized
+DEBUG - 2023-08-28 11:24:42 --> No URI present. Default controller set.
+INFO - 2023-08-28 11:24:42 --> Router Class Initialized
+INFO - 2023-08-28 11:24:42 --> Output Class Initialized
+INFO - 2023-08-28 11:24:42 --> Security Class Initialized
+DEBUG - 2023-08-28 11:24:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-28 11:24:42 --> Input Class Initialized
+INFO - 2023-08-28 11:24:42 --> Language Class Initialized
+INFO - 2023-08-28 11:24:42 --> Loader Class Initialized
+INFO - 2023-08-28 11:24:42 --> Helper loaded: url_helper
+INFO - 2023-08-28 11:24:42 --> Helper loaded: tanggal_helper
+ERROR - 2023-08-28 11:24:43 --> Severity: Warning --> 2 - 2023-08-28 11:24:42 -->  /var/www/html/app_benchmark/system/libraries/Session/drivers/Session_files_driver.php 136
+ /var/www/html/app_benchmark/system/libraries/Session/drivers/Session_files_driver.php 136
+ERROR - 2023-08-28 11:24:43 --> Session: Configured save path '/var/www/html/app_benchmark/application/ci_session' is not a directory, doesn't exist or cannot be created.
+ERROR - 2023-08-28 11:24:45 --> Severity: Warning --> 2 - 2023-08-28 11:24:43 -->  /var/www/html/app_benchmark/system/libraries/Session/Session.php 143
+ /var/www/html/app_benchmark/system/libraries/Session/Session.php 143
+INFO - 2023-08-28 11:24:45 --> Session: Class initialized using 'files' driver.
+INFO - 2023-08-28 11:24:45 --> Helper loaded: form_helper
+INFO - 2023-08-28 11:24:45 --> Form Validation Class Initialized
+INFO - 2023-08-28 11:24:45 --> User Agent Class Initialized
+INFO - 2023-08-28 11:24:45 --> Controller Class Initialized
+INFO - 2023-08-28 11:24:45 --> Final output sent to browser
+DEBUG - 2023-08-28 11:24:45 --> Total execution time: 3.1921
+INFO - 2023-08-28 11:25:11 --> Config Class Initialized
+INFO - 2023-08-28 11:25:11 --> Hooks Class Initialized
+DEBUG - 2023-08-28 11:25:11 --> UTF-8 Support Enabled
+INFO - 2023-08-28 11:25:11 --> Utf8 Class Initialized
+INFO - 2023-08-28 11:25:11 --> URI Class Initialized
+DEBUG - 2023-08-28 11:25:11 --> No URI present. Default controller set.
+INFO - 2023-08-28 11:25:11 --> Router Class Initialized
+INFO - 2023-08-28 11:25:11 --> Output Class Initialized
+INFO - 2023-08-28 11:25:11 --> Security Class Initialized
+DEBUG - 2023-08-28 11:25:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-28 11:25:11 --> Input Class Initialized
+INFO - 2023-08-28 11:25:11 --> Language Class Initialized
+INFO - 2023-08-28 11:25:11 --> Loader Class Initialized
+INFO - 2023-08-28 11:25:11 --> Helper loaded: url_helper
+INFO - 2023-08-28 11:25:11 --> Helper loaded: tanggal_helper
+INFO - 2023-08-28 11:25:11 --> Session: Class initialized using 'files' driver.
+INFO - 2023-08-28 11:25:11 --> Helper loaded: form_helper
+INFO - 2023-08-28 11:25:11 --> Form Validation Class Initialized
+INFO - 2023-08-28 11:25:11 --> User Agent Class Initialized
+INFO - 2023-08-28 11:25:11 --> Controller Class Initialized
+INFO - 2023-08-28 11:25:11 --> Final output sent to browser
+DEBUG - 2023-08-28 11:25:11 --> Total execution time: 0.0460
+INFO - 2023-08-28 11:25:15 --> Config Class Initialized
+INFO - 2023-08-28 11:25:15 --> Hooks Class Initialized
+DEBUG - 2023-08-28 11:25:15 --> UTF-8 Support Enabled
+INFO - 2023-08-28 11:25:15 --> Utf8 Class Initialized
+INFO - 2023-08-28 11:25:15 --> URI Class Initialized
+DEBUG - 2023-08-28 11:25:15 --> No URI present. Default controller set.
+INFO - 2023-08-28 11:25:15 --> Router Class Initialized
+INFO - 2023-08-28 11:25:15 --> Output Class Initialized
+INFO - 2023-08-28 11:25:15 --> Security Class Initialized
+DEBUG - 2023-08-28 11:25:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-28 11:25:15 --> Input Class Initialized
+INFO - 2023-08-28 11:25:15 --> Language Class Initialized
+INFO - 2023-08-28 11:25:15 --> Loader Class Initialized
+INFO - 2023-08-28 11:25:15 --> Helper loaded: url_helper
+INFO - 2023-08-28 11:25:15 --> Helper loaded: tanggal_helper
+INFO - 2023-08-28 11:25:15 --> Session: Class initialized using 'files' driver.
+INFO - 2023-08-28 11:25:15 --> Helper loaded: form_helper
+INFO - 2023-08-28 11:25:15 --> Form Validation Class Initialized
+INFO - 2023-08-28 11:25:15 --> User Agent Class Initialized
+INFO - 2023-08-28 11:25:15 --> Controller Class Initialized
+INFO - 2023-08-28 11:25:15 --> Final output sent to browser
+DEBUG - 2023-08-28 11:25:15 --> Total execution time: 0.0469
